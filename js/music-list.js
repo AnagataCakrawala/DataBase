@@ -215,11 +215,12 @@ let allMusic = [
     src: "music-34"
   },
    {
-    name: " Cobalah Mengerti (Cover by Mirriam Eka)",
+    name: "Cobalah Mengerti (Cover by Mirriam Eka)",
     artist: "NOAH Feat. Momo GEISHA",
     img: "music-0",
     src: "music-35"
   },
+  
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
